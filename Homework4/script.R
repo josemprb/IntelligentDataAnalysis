@@ -1,5 +1,5 @@
 install.packages("genie")
-install.packages("C:/Users/José Manuel Pérez/Desktop/IdR_1.0.tar.gz", 
+install.packages("C:/Users/JosÃ© Manuel PÃ©rez/Desktop/IdR_1.0.tar.gz", 
                  repos = NULL, type = "source", lib="C:/Tools/R/R-3.5.1/library")
 library(genie)
 library(IdR)
